@@ -41,7 +41,7 @@ class FormComponent extends Component {
                                 </select>
                             </div>
 
-                            <label className="col-sm-4 col-form-label">First name</label>
+                            <label className="col-sm-4 col-form-label">Subject</label>
                             <div className="col-sm-8 mb-3">
                                 <textarea className="form-control" placeholder="Write something.." rows="7" onChange={this.onDataChange} />
                             </div>
